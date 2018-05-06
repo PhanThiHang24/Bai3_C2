@@ -1,0 +1,55 @@
+# Bai3_C2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bai3_c2
+    </title>
+</head>
+<body>
+        <table cellpadding="10" cellspacing="0" border="1">
+    <td>
+    <table cellpadding="10" cellspacing="0" border="1">
+       <tr valign="middle" >
+       <td>
+            Rubby
+       </td>
+        <td>
+            baby
+        </td>
+        </tr>
+        <tr>
+        <td>
+            buggy
+        </td>
+         <td>
+            bumpers
+        </td>
+        </tr>   
+        </table>
+    </td>
+    <td>
+     <table cellpadding="10" cellspacing="0" border="1">
+        <tr valign="middle">
+        <td>
+            She
+        </td>
+        <td>
+            sells
+        </td>
+        </tr>
+        <tr>
+        <td>
+            sea
+        </td>
+        <td>
+            shells
+        </td>
+        </tr>              
+    </table>      
+    </td> 
+    </table>
+</body>
+</html>
